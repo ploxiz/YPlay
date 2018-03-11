@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c3e50</color>
+    <color name="colorPrimaryDark">#1f2c39</color>
+    <color name="colorAccent">#16a085</color>
+    <color name="colorSubtle">#e4e4e4</color>
+
+    <color name="colorDisabled">#5e5e5e</color>
+
+    <color name="textPrimary">#e4e4e4</color>
+    <color name="textSecondary">#16a085</color>
+
+    <color name="divider">#B6B6B6</color>
+</resources>
